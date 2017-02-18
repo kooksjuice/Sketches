@@ -1,6 +1,10 @@
-# hw1pr2.py
+#
+#
 # Anna Novikova
-# 02/04/17
+# 
+# Simple Text Analysis from csv file. Unweighted and Weighted word counts. 
+# Cretin output to generate HTML table.
+#
 
 import csv
 from collections import *
