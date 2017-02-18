@@ -1,17 +1,15 @@
 
-# coding: utf-8
-
-# In[102]:
-
-# hw0pr2.txt
-#
 # Anna Novikova
-# completed in Jupyter Notebooks
+# 
+# Analyzing 10,000 phone book entries!
 #
-# Extra Questions:
-# what is the longest name?
-# what is the largest sum of digits?
-# how many number entries use brackets and dashes?
+# Questions:
+# How many .txt files are in the whole set?
+# Across all of the files, how many of the phone numbers contain exactly 10 digits? 
+# How many people have the name "GARCIA" in the whole set?
+# What is the longest name?
+# What is the largest sum of digits?
+# How many number entries use brackets and dashes?
 
 import os
 
@@ -131,7 +129,6 @@ def count_dashes_and_brackets(path):
     return count
 
 
-# In[103]:
 
 #path = '/Users/Mac/Google Drive/CS35/hw0/phone_files'
 #main function that takes path of the phone_files folder
