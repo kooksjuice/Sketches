@@ -1,14 +1,13 @@
 
-# coding: utf-8
-
-# In[115]:
-
-# hw0pr3.py
 #
 # Anna Novikova
-# completed in Jupyter Notebooks
 #
-# Extra Questions
+# Here I analyzed all Inaugural Adsresses to answer some questions I was curious about.
+#
+# Questions:
+# Comparing 2009's and 2013's addresses, which used the word "country" more often?
+# Comparing all of the addresses, which used the word "war" most often?
+# Which of the addresses contains the largest number of four-letter words? 
 # which speech uses most numbers?
 # what is the shortest speech?
 # what is the longest word and what file it occurs in?
@@ -113,7 +112,6 @@ def longest_word(file_names):
         
 
 
-# In[104]:
 
 #path = '/Users/Mac/Google Drive/CS35/hw0/addresses'
 #main funciton that takes in the path of the addresses folder
@@ -123,14 +121,3 @@ def main(path):
     compare_4_letter_word_counts(os.listdir(path))
     most_digits(os.listdir(path))
     longest_word(os.listdir(path))
-
-
-# In[116]:
-
-
-
-
-# In[ ]:
-
-
-
