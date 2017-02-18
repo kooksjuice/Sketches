@@ -1,13 +1,9 @@
-
-# coding: utf-8
-
-# In[18]:
-
-# hw2pr1.py
 #
 # Anna Novikova
 #
-# CS35, 02/12/17
+# Grabbing data for distances between cities from Google Maps API.
+# Generating a table with the sources data for HTML publishing.
+
 
 import requests
 import string
