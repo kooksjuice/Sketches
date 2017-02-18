@@ -1,6 +1,11 @@
-# hw1pr3.py
+#
 # Anna Novikova
-# 02/04/17
+#
+# Insipired by XKCD words substitution. Generating test for HTML with the original and subsittutions.
+# 
+# Inspiration: 
+# https://xkcd.com/1625/
+# https://xkcd.com/1679/
 
 import csv
 from collections import *
