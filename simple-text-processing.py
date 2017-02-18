@@ -1,12 +1,7 @@
 
 # coding: utf-8
 
-# In[12]:
-
-# hw0pr1.py
-# 
-# Anna Novikova (started in class with Albert Xu)
-# completed in Jupyter Notebooks
+# fun warm-ups with text processing
 
 
 
