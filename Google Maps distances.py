@@ -77,7 +77,7 @@ def multicity_distance_process(filename_to_read = "multicity.json"):
 
 
 #
-# a main function for problem 1 (the multicity distance problem)
+# a main function the multicity distance task
 #
 def main():
     """ 
