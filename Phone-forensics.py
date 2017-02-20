@@ -13,7 +13,6 @@
 
 import os
 
-
 #function counts number of files in all subdirectories of a directory with a given path
 def count_files(path):
     count = 0
