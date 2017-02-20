@@ -1,5 +1,4 @@
 #
-#
 # Anna Novikova
 # 
 # Simple Text Analysis from csv file. Unweighted and Weighted word counts. 
