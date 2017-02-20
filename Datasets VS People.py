@@ -1,8 +1,6 @@
-#hw2pr3.py
 #
 # Anna Novikova
 #
-# CS35, 02/12/17
 #
 # Datasets vs. People
 # I want to compare if at any given time there are more datasets on data.gov than people.
