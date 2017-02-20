@@ -11,9 +11,9 @@ import csv
 from collections import *
 import re
 
-#
+
 # readcsv is a starting point - it returns the rows from a standard csv file...
-#
+
 def readcsv( csv_file_name ):
     """ readcsv takes as
          + input:  csv_file_name, the name of a csv file
