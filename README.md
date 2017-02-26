@@ -18,6 +18,7 @@ Scraping Google API to find distances between cities in two arrays.
 
 ### inaugural-addresses.py	
 Analyazing all US President Inaugural Adsresses to answer the following:
+
 1. Comparing 2009's and 2013's addresses, which used the word "country" more often?
 2. Comparing all of the addresses, which used the word "war" most often?
 3. Which of the addresses contains the largest number of four-letter words? 
