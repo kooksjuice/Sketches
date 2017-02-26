@@ -47,6 +47,8 @@ A Python go-between for CSV (comma-separated values files) and the web languages
 ### text-for-web-in-python.py
 Generating text for HTML publishing with the original and subsittutions. Insipired by XKCD words substitution. 
 Inspiration: 
+
 https://xkcd.com/1625/
+
 https://xkcd.com/1679/
 
