@@ -4,8 +4,15 @@ This repository is all about having fun with different projects in Python!
 
 ## Machine Learning
 
+### iris.py
+Identification of Irises from csv representation with k-means classifier.  Standard ML dataset.
+I use average scores of several cross validations to determine the optimal *k*. 
 
-## Data Visualization
+### digits.py
+Identification of hand-writted digits with k-means classifier.  Standard ML dataset.
+
+### titanic.py
+Predicting survival of passangers of Titanic with unknown status, based on the data for known status. Learning a k-nearest neighbors model. Testing data score: 0.79. 
 
 
 ## Files, Web, Scripting, Scrpaing, Parsing
